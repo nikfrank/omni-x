@@ -1,13 +1,3 @@
--------------------------
-jukebox chrome extension:
--------------------------
+copypasta of a chrome extension I started for a project which didn't end up needing it
 
-done:
-
-- socket control for soundcloud (ish)
-
-next:
-
-- control youtube playback from socket
-
-- dodge ads
+moving this over to being an omnibar interceptor
